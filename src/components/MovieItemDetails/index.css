@@ -1,0 +1,77 @@
+.movie-details-container {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.movie-details {
+  display: flex;
+}
+
+.genre-container {
+  display: flex;
+  align-items: center;
+}
+
+.genre-list {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+
+.genre-item {
+  margin-left: 10px;
+}
+
+.movie-image {
+  height: 450px;
+  width: 800px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.para {
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.cast-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+
+.cast-image {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+}
+
+.cast-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 12%;
+  margin-bottom: 30px;
+  height: 150px;
+}
+
+.character {
+  margin-top: 0px;
+  font-size: 12px;
+}
+
+.movie-title {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.para2 {
+  font-weight: 600;
+  font-family: 'Roboto';
+  font-size: 14px;
+}

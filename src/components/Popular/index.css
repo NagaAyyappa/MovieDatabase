@@ -1,0 +1,34 @@
+.movies-list {
+  margin: 0px;
+  padding: 20px 50px 20px 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.page-button {
+  background-color: blue;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  border-radius: 7px;
+  padding: 10px 15px 10px 15px;
+  outline: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.popular-container {
+  padding-bottom: 30px;
+}
